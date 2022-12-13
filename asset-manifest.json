@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/build-doutor-na-net/static/js/main.bd75b067.js",
+    "static/media/sobre.png": "/build-doutor-na-net/static/media/sobre.694cee1b702300f77fee.png",
+    "static/media/medico-app.png": "/build-doutor-na-net/static/media/medico-app.50be1982b6c3ef0c44a7.png",
+    "static/media/doctor-telescopio.png": "/build-doutor-na-net/static/media/doctor-telescopio.b30b3d6aa7e44e69d20c.png",
+    "static/media/segunda-tabela.png": "/build-doutor-na-net/static/media/segunda-tabela.e1d5ab7ede0c4972fcf7.png",
+    "static/media/primeira-tabela.png": "/build-doutor-na-net/static/media/primeira-tabela.b1cc9849918216dd1eaa.png",
+    "static/media/medico-apontando.png": "/build-doutor-na-net/static/media/medico-apontando.0ede904259c166f566b3.png",
+    "static/media/medico-normal.png": "/build-doutor-na-net/static/media/medico-normal.ed98a6e39392f4989a61.png",
+    "static/media/mobile.png": "/build-doutor-na-net/static/media/mobile.d86c61c45f64df078144.png",
+    "index.html": "/build-doutor-na-net/index.html",
+    "main.bd75b067.js.map": "/build-doutor-na-net/static/js/main.bd75b067.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd75b067.js"
+  ]
+}
